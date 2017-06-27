@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Chengalam Church]]></data>
+  <data name="en_project_author_name"><![CDATA[360Pro]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.360pro.com.au]]></data>
+
+
+
+  <data name="en_pano10_title"><![CDATA[001_Spot_11_HDR Panorama]]></data>
+  <data name="en_spotpoint43_tooltip"><![CDATA[Adoration Chappel]]></data>
+  <data name="en_spotpoint44_tooltip"><![CDATA[Move here]]></data>
+  <data name="en_spotpoint46_tooltip"><![CDATA[Move here]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[002_Spot_12_HDR Panorama]]></data>
+  <data name="en_spotpoint47_tooltip"><![CDATA[Go Outside]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[003_Spot_08_HDR Panorama]]></data>
+  <data name="en_spotpoint48_tooltip"><![CDATA[Church Entrance]]></data>
+  <data name="en_spotpoint49_tooltip"><![CDATA[Move here]]></data>
+  <data name="en_spotpoint50_tooltip"><![CDATA[Go below]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[004_Spot_10_HDR Panorama]]></data>
+  <data name="en_spotpoint51_tooltip"><![CDATA[Go down]]></data>
+  <data name="en_spotpoint52_tooltip"><![CDATA[Move here]]></data>
+  <data name="en_spotpoint53_tooltip"><![CDATA[Church Entrance]]></data>
+
+
+  <data name="en_pano29_title"><![CDATA[005_Spot_07_HDR Panorama]]></data>
+  <data name="en_spotpoint98_tooltip"><![CDATA[Move here]]></data>
+  <data name="en_spotpoint99_tooltip"><![CDATA[Enter The Curch]]></data>
+  <data name="en_spotpoint100_tooltip"><![CDATA[Move here]]></data>
+
+
+  <data name="en_pano30_title"><![CDATA[006_Spot_01_HDR Panorama]]></data>
+  <data name="en_spotpoint101_tooltip"><![CDATA[Walk close]]></data>
+  <data name="en_spotpoint102_tooltip"><![CDATA[Church Entrance]]></data>
+  <data name="en_spotpoint103_tooltip"><![CDATA[Move there]]></data>
+  <data name="en_spotpoint104_tooltip"><![CDATA[Move here]]></data>
+  <data name="en_spotpoint117_tooltip"><![CDATA[Balcony]]></data>
+
+
+  <data name="en_pano33_title"><![CDATA[007_Spot_03_HDR Panorama]]></data>
+  <data name="en_spotpoint111_tooltip"><![CDATA[Move Here]]></data>
+  <data name="en_spotpoint112_tooltip"><![CDATA[Move here]]></data>
+  <data name="en_spotpoint113_tooltip"><![CDATA[Althar]]></data>
+  <data name="en_spotpoint115_tooltip"><![CDATA[Balcony]]></data>
+
+
+  <data name="en_pano34_title"><![CDATA[008_Spot_02_HDR Panorama]]></data>
+  <data name="en_spotpoint114_tooltip"><![CDATA[Move here]]></data>
+
+
+  <data name="en_pano35_title"><![CDATA[009_Spot_05_HDR Panorama]]></data>
+  <data name="en_spotpoint105_tooltip"><![CDATA[Move there]]></data>
+  <data name="en_spotpoint106_tooltip"><![CDATA[Move here]]></data>
+
+
+  <data name="en_pano36_title"><![CDATA[010_Spot_04_HDR Panorama]]></data>
+  <data name="en_spotpoint107_tooltip"><![CDATA[Move here]]></data>
+  <data name="en_spotpoint108_tooltip"><![CDATA[Move here]]></data>
+
+
+  <data name="en_pano37_title"><![CDATA[011_Spot_09_HDR Panorama]]></data>
+  <data name="en_spotpoint116_tooltip"><![CDATA[Althar]]></data>
+
+
+
+
+
+
+  <data name="en_webvrbuttontooltip"><![CDATA[VR]]></data>
+  <data name="en_controlBar_dpadprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_dpadnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_dpadzoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_dpadzoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_dpadmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_dpadmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_dpadmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_dpadmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_dpadhomeTip"><![CDATA[Home]]></data>
+  <data name="en_controlBar_dpadopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_dpadcloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_dpadautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_dpadautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_dpadautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_dpadautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_dpadsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_dpadsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_dpadenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_dpadenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_dpaddisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_dpadhideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_dpadctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_dpadctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+  <data name="en_spotpoint43_description"><![CDATA[<font size="2">In Adoration Chappel relics of 12 Saints are present. Chapel is open from 07.30 AM in the morning till 07.00PM</font>]]></data>
+
+
+  <data name="en_pano11_description"><![CDATA[<span style="font-size: small;">In Adoration Chappel relics of 12 Saints are present. Chapel is open from 07.30 AM in the morning till 07.00PM</span>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
